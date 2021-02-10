@@ -1,6 +1,6 @@
 const net = require('net');
 const stdin = process.stdin;
-const {IP, PORT} = require('./constant');
+const {IP, PORT} = require('./constants');
 
 
 /*

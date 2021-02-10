@@ -3,5 +3,5 @@ const PORT = 50542;
 
 module.exports = {
   IP,
-  Port
+  PORT
 };
